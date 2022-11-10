@@ -1,16 +1,26 @@
-### Hi there 👋
+## Estilista ..... Estudante de Progamação ..... Futura Dev ♥ ##
 
-<!--
-**Ingridev/Ingridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou formada em Design de Moda|Estilismo e atuei na área desde de 2017.
+Amava minha profissão maaaas, o quesito liberdade geográfica foi crucial para essa mudança!  O famoso *anywhere office! Haha*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em meados de Junho de 2022, conheci a programação através da Programaria, Discover e Cuso Em Video. Não demorou muito, e em agosto resolvi deixar o antigo trabalho e me dedicar aos estudos.
+
+---
+
+Sou aluna da [codar.me](https://codar.me/) || Formação Full Stack Júnior
+
+HTML  | CSS  |  JS
+
+---
+
+### Redes ###
+
+[Linkedin](https://www.linkedin.com/in/ingrid-silva-cassiano-80618020a/)
+
+[Instagram](https://www.instagram.com/ingridsilvac14/)
+
+Discord: Ingrid Silva#6182
+
+
+
