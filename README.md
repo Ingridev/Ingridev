@@ -1,4 +1,4 @@
-## Estilista ..... Estudante de Progamação ..... Futura Dev ♥ ##
+## Estudante de Progamação ..... Futura Dev ♥ ##
 
 
 Sou formada em Design de Moda|Estilismo e atuei na área desde de 2017.
