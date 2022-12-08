@@ -10,7 +10,7 @@ Em meados de Junho de 2022, conheci a programação através da Programaria, Dis
 
 Sou aluna da [codar.me](https://codar.me/) || Formação Full Stack Júnior
 
-HTML  | CSS  |  JS
+HTML  | CSS  |  JS  | GIT  | GITHUB
 
 ---
 
